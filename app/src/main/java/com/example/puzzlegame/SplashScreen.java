@@ -13,8 +13,6 @@ public class SplashScreen extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_screen);
 
-        //Action barni yo'qotish uchun
-        getSupportActionBar().hide();
 
         /*
             2 sekundan so'ng keyingi oynaga o'tadi va

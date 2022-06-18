@@ -48,7 +48,7 @@ public class GameActivity extends AppCompatActivity {
 
     }
 
-//fourth step
+//fourth step - 4 qadam 
     private void loadDataToView() {
         emptyX = 3;
         emptyY = 3;

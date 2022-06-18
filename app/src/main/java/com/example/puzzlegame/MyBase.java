@@ -5,8 +5,8 @@ import android.content.SharedPreferences;
 
 public class MyBase {
     public static final String SHARED_PREF = "sharedPref";
-    public static final String LAST_STEP = "lastStep";
     public static final String LAST_TIME = "lastTime";
+    public static final String LAST_STEP = "lastStep";
     private SharedPreferences preferences;
     private SharedPreferences.Editor editor;
 
